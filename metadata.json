@@ -1,0 +1,6 @@
+{
+  "name": "PawExcellence Pet Show & Championship Hub",
+  "description": "Comprehensive pet show championship platform featuring photo galleries, exhibitor registration, competition calendar, live judging, and MongoDB backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
